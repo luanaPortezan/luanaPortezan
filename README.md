@@ -14,9 +14,8 @@
 <a href="https://www.linkedin.com/in/luanaportezan/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-Luana_Portezan" height="40" width="150" /></a>
 </
 
-<a href="https://www.instagram.com/luanaportezan/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram-Luana_Portezan" height="40" width="170" /></a>
-<a href="luanaportezan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
- alt="email-Luana_Portezan" height="40" width="120" /></a>
+<a href="https://www.instagram.com/luanaportezan/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram-Luana_Portezan" height="40" width="170" />
+</a>
 
 </p>
 
