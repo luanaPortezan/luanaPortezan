@@ -1,5 +1,5 @@
 <h1 align="center">Luana Leite Portezan</h1>
-<h3 align="center">Full-Satck Web Developer</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 - 🖥️ Searching for a Job in Back-End Development
  
