@@ -3,7 +3,7 @@
 
 - 🖥️ Searching for a Job as Back-End Developer
  
-- 📚 Graduate student in Program Analysis and Development - [Descomplica](https://descomplica.com.br/pos-graduacao/)
+- 📚 Postgraduate student in Program Analysis and Development - [Descomplica](https://descomplica.com.br/pos-graduacao/)
 
 - 📚 Web Development student - [Trybe](www.trybe.com.br)
 
