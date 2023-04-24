@@ -1,11 +1,13 @@
 <h1 align="center">Luana Leite Portezan</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
-- 🖥️ Searching for a Job in Back-End Development
+- 🖥️ Searching for a Job as Back-End Developer
  
-- 📚 Studying Postgraduate in program analysis and development - [Descomplica](https://descomplica.com.br/pos-graduacao/)
+- 📚 Graduate student in Program Analysis and Development - [Descomplica](https://descomplica.com.br/pos-graduacao/)
 
-- 📚 Studying Web Development - [Trybe](www.trybe.com.br)
+- 📚 Web Development student - [Trybe](www.trybe.com.br)
+
+- 🧠 +30 completed projects as web developer in the last year
  
 - 📫 E-mail: **luanaportezan@gmail.com**
 
