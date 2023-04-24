@@ -3,8 +3,9 @@
 
 - 🖥️ Searching for a Job in Back-End Development
  
-- 📚 Studying Web Development - [Trybe](www.trybe.com.br)
 - 📚 Studying Postgraduate in program analysis and development - [Descomplica](https://descomplica.com.br/pos-graduacao/)
+
+- 📚 Studying Web Development - [Trybe](www.trybe.com.br)
  
 - 📫 E-mail: **luanaportezan@gmail.com**
 
