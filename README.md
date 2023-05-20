@@ -1,7 +1,7 @@
 <h1 align="center">Luana Leite Portezan</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
-- 🖥️ Searching for a Job as Back-End Developer
+- 🖥️ Searching for a Job as Full Stack Developer
  
 - 📚 Graduate student in Program Analysis and Development - [Descomplica](https://descomplica.com.br/pos-graduacao/)
 
