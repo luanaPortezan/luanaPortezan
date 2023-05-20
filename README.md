@@ -113,3 +113,10 @@
 <!-- Sinon -->
 <a href="https://sinonjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" alt="Sinon" width="120" height="40"/> </a>
 </p>
+
+ ## Statistics
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanaPortezan&show_icons=true&locale=en&layout=compact" alt="Luana Portezan Language Stats" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luanaPortezan&show_icons=true&locale=en" alt="Luana Portezan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luanaPortezan&" alt="Luana Portezan" /></p>
