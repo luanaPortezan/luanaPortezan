@@ -121,10 +121,11 @@
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaPortezan&layout=compact&theme=dracula&count_private=true"
         alt="Luana Portezan Language Stats" /></p>
-
-<p><img align="center"
+        
+<!-- <p><img align="center"
         src="https://github-readme-stats.vercel.app/api?username=luanaPortezan&show_icons=true&locale=en&theme=dracula&count_private=true" 
         alt="Luana Portezan" /></p>
+-->
 
 <p><img align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=luanaPortezan&theme=dracula&count_private=true" 
