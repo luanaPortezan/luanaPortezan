@@ -13,6 +13,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <!-- Upwork -->
+ <a
+    href="https://www.upwork.com/freelancers/~01821732c6f8071096" 
+    target="_blank"> 
+    <img align="center"
+         src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" 
+         alt="freelancer-Luana-Portezan" 
+         height="35"
+         width="105"/> 
+</a>
+ <!-- Linkedin -->
 <a 
    href="https://www.linkedin.com/in/luanaportezan/"
    target="blank">
@@ -24,7 +35,7 @@
        width="125" />
  </a>
 </
-
+<!-- Instagram -->
 <a 
  href="https://www.instagram.com/luanaportezan/"
  target="blank">
@@ -35,7 +46,6 @@
       height="35"
       width="145" />
 </a>
-
 </p>
 
  ## Core
@@ -121,11 +131,10 @@
     href="https://eslint.org/" 
     target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" 
-         alt="github" 
+         alt="Eslint" 
          width="105" 
          height="35"/>
 </a>
-
 </p>
 
 ## Front-End
@@ -204,6 +213,39 @@
         src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
         alt="Bootstrap"
         width="135"
+        height="35"/>
+</a>
+ <!-- Angular -->
+<a
+   href="https://angular.io/"
+   target="_blank"
+   rel="noreferrer">
+   <img
+        src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
+        alt="Angular"
+        width="135"
+        height="35"/>
+</a>
+  <!-- Sass -->
+<a
+   href="https://angular.io/"
+   target="_blank"
+   rel="noreferrer">
+   <img
+        src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+        alt="Sass"
+        width="100"
+        height="35"/>
+</a>
+   <!-- Ionic -->
+<a
+   href="https://ionicframework.com/"
+   target="_blank"
+   rel="noreferrer">
+   <img
+        src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"
+        alt="Sass"
+        width="100"
         height="35"/>
 </a>
 </p>
