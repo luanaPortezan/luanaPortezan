@@ -3,7 +3,7 @@
 
 - 🖥️ Searching for a Job as Full Stack Developer or Backend Developer
  
-- 📚 Graduate specialization student in Program Analysis and Development - [Descomplica](https://descomplica.com.br/pos-graduacao/)
+- 📚 Graduate with a specialization student in Program Analysis and Development - [Descomplica](https://descomplica.com.br/pos-graduacao/)
 
 - 📚 Web Development student - [Trybe](www.trybe.com.br)
 
