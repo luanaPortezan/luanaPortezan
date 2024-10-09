@@ -375,7 +375,7 @@
         width="105" 
         height="35"/> 
 </a>
-<!-- Chai -->
+<!-- Chai 
 <a
    href="https://www.chaijs.com/"
    target="_blank" 
