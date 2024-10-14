@@ -1,13 +1,11 @@
 <h1 align="center">Luana Leite Portezan</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🖥️ Searching for a Job as Full Stack Developer or Backend Developer
+- 🖥️ Searching for a Job as Quality Assurance Engineer
  
-- 📚 Graduate with a specialization student in Program Analysis and Development - [Descomplica](https://descomplica.com.br/pos-graduacao/)
+- 📚 Graduate with a specialization in Program Analysis and Development - [Descomplica](https://descomplica.com.br/pos-graduacao/)
 
-- 📚 Web Development student - [Trybe](www.trybe.com.br)
-
-- 🧠 +30 completed projects as web developer in the last year
+- 📚 Web Development - [Trybe](www.trybe.com.br)
  
 - 📫 E-mail: **luanaportezan@gmail.com**
 
@@ -47,6 +45,98 @@
       width="145" />
 </a>
 </p>
+
+ ## Tests
+<p align="left">
+<!-- Jest -->
+<a
+   href="https://jestjs.io/"
+   target="_blank" 
+   rel="noreferrer"> 
+   <img 
+        src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" 
+        alt="Jest" 
+        width="95" 
+        height="35"/>
+</a>
+<!-- RTL -->
+<a
+   href="https://testing-library.com/" 
+   target="_blank" 
+   rel="noreferrer"> 
+   <img
+        src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" 
+        alt="RTL" 
+        width="185" 
+        height="35"/> 
+</a>
+<!-- Mocha -->
+<a 
+   href="https://mochajs.org/" 
+   target="_blank" 
+   rel="noreferrer"> 
+   <img
+        src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" 
+        alt="mocha" 
+        width="105" 
+        height="35"/> 
+</a>
+ <!-- Jasmine -->
+<a
+  href="https://jasmine.github.io/"
+  target="_blank" 
+  rel="noreferrer">
+  <img
+      src="https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)"
+      alt="Jasmine"
+      width="105"
+      height="35"/>
+</a>
+<!-- Chai 
+<a
+   href="https://www.chaijs.com/"
+   target="_blank" 
+   rel="noreferrer">
+ <img
+     src="https://camo.githubusercontent.com/3c6e596d244ccb5b491bad3c050bb238eace57fc78243db4e48a3b7e21dc7aa7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861692d4133303730313f7374796c653d666f722d7468652d6261646765266c6f676f3d63686169266c6f676f436f6c6f723d7768697465"
+      alt="chai"
+      width="105" 
+      height="35"/> 
+</a>
+<!-- Sinon -->
+<a 
+   href="https://sinonjs.org/" 
+   target="_blank" 
+   rel="noreferrer">
+   <img
+        src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"
+        alt="Sinon"
+        width="105" 
+        height="35"/>
+</a>
+
+<!-- Github Actions -->
+<a
+  href="https://docs.github.com/pt/actions"
+  target="_blank" 
+  rel="noreferrer">
+  <img
+      src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"
+      alt="Github Actions"
+      width="105"
+      height="35"/>
+</a>
+<!-- Cypress -->
+<a
+  href="https://www.cypress.io/"
+  target="_blank" 
+  rel="noreferrer">
+  <img
+      src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"
+      alt="Cypress"
+      width="105"
+      height="35"/>
+</a>
 
  ## Core
 <p align="left">
@@ -340,74 +430,16 @@
 </a>
 </p>
 
- ## Tests
-<p align="left">
-<!-- Jest -->
-<a
-   href="https://jestjs.io/"
-   target="_blank" 
-   rel="noreferrer"> 
-   <img 
-        src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" 
-        alt="Jest" 
-        width="95" 
-        height="35"/>
-</a>
-<!-- RTL -->
-<a
-   href="https://testing-library.com/" 
-   target="_blank" 
-   rel="noreferrer"> 
-   <img
-        src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" 
-        alt="RTL" 
-        width="185" 
-        height="35"/> 
-</a>
-<!-- Mocha -->
-<a 
-   href="https://mochajs.org/" 
-   target="_blank" 
-   rel="noreferrer"> 
-   <img
-        src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" 
-        alt="mocha" 
-        width="105" 
-        height="35"/> 
-</a>
-<!-- Chai 
-<a
-   href="https://www.chaijs.com/"
-   target="_blank" 
-   rel="noreferrer">
- <img
-     src="https://camo.githubusercontent.com/3c6e596d244ccb5b491bad3c050bb238eace57fc78243db4e48a3b7e21dc7aa7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861692d4133303730313f7374796c653d666f722d7468652d6261646765266c6f676f3d63686169266c6f676f436f6c6f723d7768697465"
-      alt="chai"
-      width="105" 
-      height="35"/> 
-</a>
-<!-- Sinon -->
-<a 
-   href="https://sinonjs.org/" 
-   target="_blank" 
-   rel="noreferrer">
-   <img
-        src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"
-        alt="Sinon"
-        width="105" 
-        height="35"/>
-</a>
-</p>
 
  ## Statistics
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaPortezan&layout=compact&theme=dracula&count_private=true"
         alt="Luana Portezan Language Stats" />
 </p>  
-<p><img align="center"
+<!-- <p><img align="center"
         src="https://github-readme-stats.vercel.app/api?username=luanaPortezan&show_icons=true&locale=en&theme=dracula&count_private=true" 
         alt="Luana Portezan" />
-</p>
+</p> -->
 <p><img align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=luanaPortezan&theme=dracula&count_private=true" 
         alt="Luana Portezan" />
