@@ -1,5 +1,5 @@
 <h1 align="center">Luana Leite Portezan</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Quality Assurance</h3>
 
 - 🖥️ I work as a junior test analyst at Qintess - [Qintess](https://qintess.com/pt_br)
  
