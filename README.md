@@ -33,21 +33,32 @@
        width="125" />
  </a>
 </
-<!-- Instagram -->
-<a 
- href="https://www.instagram.com/luanaportezan/"
- target="blank">
- <img
-      align="center"
-      src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-      alt="instagram-Luana_Portezan"
-      height="35"
-      width="145" />
-</a>
 </p>
 
 ## Core
 <p align="left">
+ <!-- Jenkins -->
+<a
+   href="https://www.jenkins.io/doc/"
+   target="_blank"
+   rel="noreferrer">
+   <img 
+       src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"
+       alt="Jenkins"
+       width="115"
+       height="35"/>
+</a>
+ <!-- Jira -->
+<a
+   href="https://www.atlassian.com/br/software/jira"
+   target="_blank"
+   rel="noreferrer">
+   <img 
+       src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"
+       alt="Jira"
+       width="95"
+       height="35"/>
+</a>
 <!-- Visual Studio Code -->
 <a
    href="https://code.visualstudio.com/"
@@ -80,16 +91,6 @@
         alt="typescript" 
         width="150" 
         height="35"/> 
-</a>
-<!-- Python -->
-<a 
-   href="https://www.python.org/"
-   target="_blank"
-   rel="noreferrer">
-   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-        alt="python"
-        width="110"
-        height="35"/>
 </a>
 <!-- Git -->
 <a 
@@ -211,6 +212,17 @@
   <img
       src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"
       alt="Cypress"
+      width="125"
+      height="35"/>
+</a>
+ <!-- Selenium -->
+<a
+  href="https://www.selenium.dev"
+  target="_blank" 
+  rel="noreferrer">
+  <img
+      src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"
+      alt="Selenium"
       width="125"
       height="35"/>
 </a>
@@ -351,6 +363,17 @@
         alt="expressjs"
         width="135"
         height="35"/> </a>
+  <!-- Java -->
+ <a
+   href="https://dev.java/"
+   target="_blank"
+   rel="noreferrer">
+   <img
+        src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
+        alt="java"
+        width="95"
+        height="35"/>
+</a>
 <!-- JWT -->
 <a
    href="https://jwt.io/"
@@ -371,6 +394,17 @@
         src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" 
         alt="NPM" 
         width="85" 
+        height="35"/>
+</a>
+ <!-- Maven -->
+<a
+   href="https://maven.apache.org//"
+   target="_blank"
+   rel="noreferrer">
+   <img
+        src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"
+        alt="Maven"
+        width="190"
         height="35"/>
 </a>
 <!-- MySQL -->
@@ -421,15 +455,27 @@
 
 
  ## Statistics
-<p><img align="left"
+<!--<p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaPortezan&layout=compact&theme=dracula&count_private=true"
         alt="Luana Portezan Language Stats" />
 </p>  
-<!-- <p><img align="center"
+<p><img align="center"
         src="https://github-readme-stats.vercel.app/api?username=luanaPortezan&show_icons=true&locale=en&theme=dracula&count_private=true" 
         alt="Luana Portezan" />
-</p> -->
+</p>
 <p><img align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=luanaPortezan&theme=dracula&count_private=true" 
         alt="Luana Portezan" />
-</p>
+</p>-->
+
+<picture>
+  <source
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanaPortezan&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanaPortezan&theme=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=luanaPortezan&show_icons=true" />
+</picture>
