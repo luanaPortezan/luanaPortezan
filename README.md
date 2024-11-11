@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <!-- Upwork -->
- <a
+<!--  <a
     href="https://www.upwork.com/freelancers/~01821732c6f8071096" 
     target="_blank"> 
     <img align="center"
@@ -20,7 +20,7 @@
          alt="freelancer-Luana-Portezan" 
          height="35"
          width="105"/> 
-</a>
+</a> -->
  <!-- Linkedin -->
 <a 
    href="https://www.linkedin.com/in/luanaportezan/"
@@ -32,7 +32,17 @@
        height="35"
        width="125" />
  </a>
-</
+  <!-- Duolingo -->
+<a 
+   href="https://www.duolingo.com/profile/portezan?via=share_profile_link"
+   target="blank">
+   <img
+       align="center"
+       src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"
+       alt="linkedin-Luana_Portezan"
+       height="35"
+       width="125" />
+ </a>
 </p>
 
 ## Core
