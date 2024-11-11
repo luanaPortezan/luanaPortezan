@@ -1,7 +1,7 @@
 <h1 align="center">Luana Leite Portezan</h1>
 <h3 align="center">Quality Assurance</h3>
 
-- 🖥️ I work as a junior test analyst at Qintess - [Qintess](https://qintess.com/pt_br)
+- 🖥️ I'm work as Junior Test Analyst at Qintess - [Qintess](https://qintess.com/pt_br)
  
 - 📚 Graduate with a specialization in Program Analysis and Development - [Descomplica](https://descomplica.com.br/pos-graduacao/)
 
