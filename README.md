@@ -48,7 +48,8 @@
 ## Core
 <p align="left">
  <!-- Jenkins -->
-<a
+ <!--
+ <a
    href="https://www.jenkins.io/doc/"
    target="_blank"
    rel="noreferrer">
@@ -57,7 +58,8 @@
        alt="Jenkins"
        width="115"
        height="35"/>
-</a>
+ </a>
+ -->
  <!-- Jira -->
 <a
    href="https://www.atlassian.com/br/software/jira"
