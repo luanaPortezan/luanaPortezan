@@ -2,6 +2,8 @@
 <h3 align="center">Quality Assurance</h3>
 
 - 🖥️ I'm work as Junior Test Analyst at Qintess - [Qintess](https://qintess.com/pt_br)
+
+- 📚 Artificial Intelligence Development Assistant - [SENAI-GO](https://senaigoias.com.br)
  
 - 📚 Graduate with a specialization in Program Analysis and Development - [Descomplica](https://descomplica.com.br/pos-graduacao/)
 
