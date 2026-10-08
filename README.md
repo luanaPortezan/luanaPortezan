@@ -1,7 +1,7 @@
 <h1 align="center">Luana Leite Portezan</h1>
 <h3 align="center">Quality Assurance</h3>
 
-- 🖥️ I'm work as Junior Test Analyst at Qintess - [Qintess](https://qintess.com/pt_br)
+- 🖥️ I'm work as Junior Test Analyst
 
 - 📚 Artificial Intelligence Development Assistant - [SENAI-GO](https://senaigoias.com.br)
  
